@@ -26,8 +26,6 @@ define('b1n_DEBUG_MODE', 0);
     6 - 1 && ALL_VARS && ALL_CONSTANTS
 */
 
-define('b1n_SYSTEMADMIN_NAME',  'Luis Nardella');
-define('b1n_SYSTEMADMIN_EMAIL', 'luis@b4br.net');
-//define('b1n_SYSTEMADMIN_NAME',  'Francisco A. Lyra');
-//define('b1n_SYSTEMADMIN_EMAIL', 'lyra@b4br.net');
+define('b1n_SYSTEMADMIN_NAME',  'Marcio Ribeiro');
+define('b1n_SYSTEMADMIN_EMAIL', 'binary@b1n.org');
 ?>
