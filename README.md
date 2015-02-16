@@ -4,7 +4,7 @@ FlyWatch
 Old PHP project created for [Sagatiba](http://www.sagatiba.com.br) circa 2002/2003.
 
 FlyWatch took care of registering aircrafts, crew members, agents (handlers, caterers, ...),
-flight permits and visa expiracy.
+flight permits and visa expiry.
 
 The goal is the make it easier (and way cheaper) to create the needed documentation for landing
 executive airplanes.
@@ -23,5 +23,5 @@ Under *src* the main modules are:
 * *admin*: user, group, permissions registry (admin dashboard)
 * *agent*: permits, caterers, handlers
 * *data*: registry point for aircraft, airport, citizenship, crew members, food
-* *itinerary*: leg allocation, itinerary creation, pdf generation of needed documentation for landing
+* *itinerary*: leg allocation, itinerary creation, PDF generation of needed documentation for landing
 * *pax*: passengers
