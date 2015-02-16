@@ -23,5 +23,5 @@ Under *src* the main modules are:
 * *admin*: user, group, permissions registry (admin dashboard)
 * *agent*: permits, caterers, handlers
 * *data*: registry point for aircraft, airport, citizenship, crew members, food
-* *itinerary*: leg allocation, itierary creation, pdf generation of needed documentation for landing
+* *itinerary*: leg allocation, itinerary creation, pdf generation of needed documentation for landing
 * *pax*: passengers
