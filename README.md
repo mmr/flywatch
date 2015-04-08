@@ -6,13 +6,12 @@ Old PHP project created for [Sagatiba](http://www.sagatiba.com.br) circa 2002/20
 FlyWatch took care of registering aircrafts, crew members, agents (handlers, caterers, ...),
 flight permits and visa expiry.
 
-The goal is the make it easier (and way cheaper) to create the needed documentation for landing
-executive airplanes.
+The project aims to make it easier (and way cheaper) to create the needed documentation for landing executive airplanes.
 
 Structure
 -----
 
-The structure of the project is simple.
+The structure of the project is simple:
 
 * *cron*: jobs that run periodically
 * *doc*: database schema project documentation in **sql** and **dia** format.
